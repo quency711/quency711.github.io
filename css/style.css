@@ -919,7 +919,7 @@ ul.portfolio-image li .desc{
 }
 
 .bg-about {
-  background: url('http://www.qingxiayu.tech/images/portrait2.JPG');
+  background: url('../images/portrait2.jpg') no-repeat;;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

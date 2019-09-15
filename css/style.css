@@ -919,7 +919,7 @@ ul.portfolio-image li .desc{
 }
 
 .bg-about {
-  background-image:: url('../images/portrait2.jpg') ;;
+  background-image: url('../images/portrait2.jpg') ;;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

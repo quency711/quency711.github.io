@@ -917,8 +917,9 @@ ul.portfolio-image li .desc{
   display: inline-block;
   width: 100%;
 }
+
 .bg-about {
-  background: url('../images/portrait2.jpg');
+  background: url('http://www.qingxiayu.tech/images/portrait2.JPG');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -932,6 +933,7 @@ ul.portfolio-image li .desc{
   height: 100%;
   float: left;
 }
+
 .wrap-about {
   height: 100%;
   width: 100%;
